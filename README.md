@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
-- 🌱 I’m currently learning **Java, HTML, CSS and Python**
+- 🌱 I’m currently learning Java, HTML, CSS and Python
 
-- 📝 I regularly write articles on [https://www.harindu.dev/](https://www.harindu.dev/)
+- 📝 I regularly write articles on [www.harindu.dev](www.harindu.dev)
 
 - 📫 How to reach me **harindu.dev@outlook.com**
 
-- 📄 Know about my experiences [https://www.harindu.dev/About.html](https://www.harindu.dev/About.html)
+- 📄 Know about my experiences [https://www.harindu.dev/About.html](www.harindu.dev/About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
