@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **harindu.dev@outlook.com**
 
-- 📄 Know about my experiences [https://www.harindu.dev/About.html](https://www.harindu.dev/About)
+- 📄 Know about my experiences [www.harindu.dev/About.html](https://www.harindu.dev/About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
