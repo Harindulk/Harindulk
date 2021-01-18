@@ -1,4 +1,4 @@
-<img src="assets/Harindulk.svg" alt="Harindu Fonseka" style="zoom: 30%;" />
+<img src="assets/Harindulk.svg" alt="Harindulk" width="200" height="200"/>
 
 ##### 😇 My Name Is Harindu Fonseka .
 
@@ -6,7 +6,6 @@
 
 ##### 😎 I’m currently learning  Java, HTML, CSS AND Python .
 
-##### 💬 Ask me about ANYTHING
 
 - [x] CSharp
 - [x] HTML
