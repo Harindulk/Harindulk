@@ -1,4 +1,4 @@
-<img src="assets/Harindulk.svg" alt="Harindu Fonseka" style="zoom: 67%;" />
+<img src="assets/Harindulk.svg" alt="Harindu Fonseka" style="zoom: 30%;" />
 
 ##### 😇 My Name Is Harindu Fonseka .
 
