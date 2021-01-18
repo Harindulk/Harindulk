@@ -1,5 +1,3 @@
-<img src="assets/Harindulk.svg" alt="Harindulk" width="200" height="200"/>
-
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
 - 🌱 I’m currently learning **Java, HTML, CSS and Python**
 
@@ -21,9 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harindulk&show_icons=true&locale=en&layout=compact" alt="harindulk" /></p>
 
-
-- [x] CSharp
-- [x] HTML
-- [x] CSS
-- [x] Java
-- [x] Python
