@@ -4,7 +4,7 @@
 
 ##### 😎 My Website - www.harindu.dev
 
-##### 😎 I’m currently learning  Java, HTML, CSS AND Python .
+##### 😎 I’m currently learning  Java, HTML, CSS and Python .
 
 
 - [x] CSharp
