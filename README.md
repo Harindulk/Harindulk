@@ -7,6 +7,7 @@
 
 - 📄 Know about my experiences [www.harindu.dev/About.html](https://www.harindu.dev/About)
 
+<a href="https://www.buymeacoffee.com/Harindulk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
