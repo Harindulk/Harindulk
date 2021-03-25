@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
-- 🌱 I’m currently learning Java, HTML, CSS and Python
+- 🌱 I’m currently learning Machine learning
 
 - 📝 I regularly write articles on [https://www.harindu.dev](https://www.harindu.dev)
 
@@ -8,6 +8,9 @@
 - 📄 Know about my experiences [www.harindu.dev/About.html](https://www.harindu.dev/About)
 
 - 🎮 My Android Games - http://bit.ly/3sXDiKF
+
+- 🖥️ My PC Games - [www.harindu.dev/My-Games.html](https://www.harindu.dev/My-Games)
+
 
 
 <a href="https://twitter.com/harindu_fonseka" target="blank"><img src="https://img.shields.io/twitter/follow/harindu_fonseka?logo=twitter&style=for-the-badge" alt="harindu_fonseka" /></a> </p>
