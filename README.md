@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
+
 - 🌱 I’m currently learning Machine learning
 
 - 📝 I regularly write articles on [https://www.harindu.dev](https://www.harindu.dev)
@@ -10,6 +11,8 @@
 - 🎮 My Android Games - http://bit.ly/3sXDiKF
 
 - 🖥️ My PC Games - [www.harindu.dev/My-Games.html](https://www.harindu.dev/My-Games)
+
+- 🎨 My Visual Studio Code Theme - [Harindulk-Dark](https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark)
 
 
 
