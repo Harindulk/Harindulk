@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning Machine learning
 
-- 🌲 My Custom Linktree Page - https://harindulk.github.io/
+<h4> 🌲 My Custom Linktree Page - <a href="https://harindulk.github.io/" target="_blank"> //harindulk.github.io/ </a> </h4>
 
 - 📝 Website - [https://www.harindu.dev](https://www.harindu.dev)
 
