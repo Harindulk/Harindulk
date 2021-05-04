@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning Machine learning
 
-<h4> 🌲 My Custom Linktree Page - <a href="https://harindulk.github.io/" target="_blank"> //harindulk.github.io/ </a> </h4>
+- 🌲 My Custom Linktree Page - [https://harindulk.github.io/]()
 
 - 📝 Website - [https://www.harindu.dev](https://www.harindu.dev)
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences - [www.harindu.dev/About.html](https://www.harindu.dev/About)
 
-- 🎮 My Android Games - http://bit.ly/3sXDiKF
+- 🎮 My Android Games - [http://bit.ly/3sXDiKF]()
 
 - 🖥️ My PC Games - [www.harindu.dev/My-Games.html](https://www.harindu.dev/My-Games)
 
