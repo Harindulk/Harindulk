@@ -4,11 +4,11 @@
 
 - 🌲 My Custom Linktree Page - https://harindulk.github.io/
 
-- 📝 I regularly write articles on [https://www.harindu.dev](https://www.harindu.dev)
+- 📝 Website - [https://www.harindu.dev](https://www.harindu.dev)
 
-- 📫 How to reach me **harindu.dev@outlook.com**
+- 📫 How to reach me - **harindu.dev@outlook.com**
 
-- 📄 Know about my experiences [www.harindu.dev/About.html](https://www.harindu.dev/About)
+- 📄 Know about my experiences - [www.harindu.dev/About.html](https://www.harindu.dev/About)
 
 - 🎮 My Android Games - http://bit.ly/3sXDiKF
 
