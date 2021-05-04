@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
 
+- 🌲 My Custom Linktree Page - https://harindulk.github.io/
+  
 - 🌱 I’m currently learning Machine learning
 
 - 📝 I regularly write articles on [https://www.harindu.dev](https://www.harindu.dev)
