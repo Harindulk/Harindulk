@@ -2,7 +2,7 @@
   
   ![Profile views](https://gpvc.arturio.dev/Harindulk)  
   
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning ML.NET
 
 - 🌲 My Custom Linktree Page - [https://harindulk.github.io](https://harindulk.github.io/)
 
