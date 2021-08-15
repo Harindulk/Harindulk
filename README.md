@@ -18,6 +18,8 @@
 
 - 🎨 My Visual Studio Code Theme - [Harindulk-Dark](https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark)
 
+- 👻 Ghost Zone Game - [https://play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/harindulk/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
