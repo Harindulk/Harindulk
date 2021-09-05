@@ -21,7 +21,7 @@
 - 👻 Ghost Zone Game - [https://play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
 
 ----
-### Social Media
+### social media
 [![twitter icon][1.1]][1]
 [![website][2.1]][2]
 [![linkedin icon][3.1]][3]
