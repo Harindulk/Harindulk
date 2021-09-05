@@ -21,6 +21,7 @@
 - 👻 Ghost Zone Game - [https://play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
 
 ----
+### Find me all around the web
 [![twitter icon][1.1]][1]
 [![website][2.1]][2]
 [![linkedin icon][3.1]][3]
@@ -41,3 +42,7 @@
 [4]: https://github.com/Harindulk
 [5]: https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ
 [6]: https://www.instagram.com/harindulk/
+
+----
+### oh, my contribution graph get eaten by the snake 🐍🐍
+![snake gif](https://github.com/Harindulk/Harindulk/blob/output/github-contribution-grid-snake.svg)
