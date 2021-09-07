@@ -14,7 +14,7 @@
 
 - 🎮 My Android Games - [http://bit.ly/3sXDiKF](http://bit.ly/3sXDiKF)
 
-- 🖥️ My PC Games - [www.harindu.dev/My-Games](https://www.harindu.dev/My-Games.html)
+- 🖥️ My PC Games - [www.harindu.dev/games](https://www.harindu.dev/games.html)
 
 - 🎨 My Visual Studio Code Theme - [Harindulk-Dark](https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark)
 
