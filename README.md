@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning ML.NET
 
-- 🌲 My Custom Linktree Page - [https://harindulk.github.io](https://harindulk.github.io/)
+- 🌲 My links Page - [https://harindulk.github.io](https://harindulk.github.io/)
 
 - 📝 Website - [https://www.harindu.dev](https://www.harindu.dev)
 
