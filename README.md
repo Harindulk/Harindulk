@@ -28,6 +28,10 @@
 [![YouTube][5.1]][5]
 [![Instragram][6.1]][6]
 
+----
+### Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O66WFU8)
+
 [1.1]: https://img.icons8.com/doodle/50/000000/twitter-circled.png (Twitter)
 [2.1]: https://img.icons8.com/dusk/50/000000/domain.png (Website)
 [3.1]: https://img.icons8.com/doodle/50/000000/linkedin-circled.png (Linkedin)
