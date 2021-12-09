@@ -34,7 +34,7 @@
 
 ----
 ### Spotify 🎧  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pbxz0cm96meuqlbvr4r83e71q&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)]()
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pbxz0cm96meuqlbvr4r83e71q&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pbxz0cm96meuqlbvr4r83e71q&redirect=true)
 
 [1.1]: https://img.icons8.com/doodle/50/000000/twitter-circled.png (Twitter)
 [2.1]: https://img.icons8.com/dusk/50/000000/domain.png (Website)
