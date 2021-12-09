@@ -20,7 +20,7 @@
 
 - 👻 Ghost Zone Game - [https://play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
 ----
-### Social media
+### Social media 🆒
 [![twitter icon][1.1]][1]
 [![website][2.1]][2]
 [![linkedin icon][3.1]][3]
@@ -29,11 +29,12 @@
 [![Instragram][6.1]][6]
 
 ----
-### Support
+### Support 🥰
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O66WFU8)
 
 ----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pbxz0cm96meuqlbvr4r83e71q&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+### Spotify 🎧  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pbxz0cm96meuqlbvr4r83e71q&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)]()
 
 [1.1]: https://img.icons8.com/doodle/50/000000/twitter-circled.png (Twitter)
 [2.1]: https://img.icons8.com/dusk/50/000000/domain.png (Website)
