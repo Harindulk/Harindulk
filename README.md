@@ -19,6 +19,10 @@
 - 🎨 My Visual Studio Code Theme - [Harindulk-Dark](https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark)
 
 - 👻 Ghost Zone Game - [https://play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
+
+- 🪲 Pre-register for Bug Star - [https://play.google.com/store/apps/details?id=com.Harindulk.BugStar](https://bit.ly/3q7yEKt)
+
+
 ----
 ### Social media 🆒
 [![twitter icon][1.1]][1]
