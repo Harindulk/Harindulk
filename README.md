@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning ML.NET
 
-- 🌲 My links Page - [https://harindulk.github.io](https://harindulk.github.io/)
+- 🌲 My links Page - [https://harindu.me/](https://harindu.me/)
 
 - 📝 Website - [https://www.harindu.dev](https://www.harindu.dev)
 
