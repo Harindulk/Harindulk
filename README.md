@@ -4,23 +4,23 @@
   
 - 🌱 I’m currently learning ML.NET
 
-- 🌲 My links Page - [https://harindu.me/](https://harindu.me/)
+- 🌲 My links Page - [harindu.me](https://harindu.me/)
 
-- 📝 Website - [https://www.harindu.dev](https://www.harindu.dev)
+- 📝 Website - [harindu.dev](https://www.harindu.dev)
 
 - 📫 How to reach me - **harindu.dev@outlook.com**
 
-- 📄 Know about my experiences - [www.harindu.dev/About](https://www.harindu.dev/About.html)
+- 📄 Know about my experiences - [harindu.dev/About](https://www.harindu.dev/About.html)
 
-- 🎮 My Android Games - [http://bit.ly/3sXDiKF](http://bit.ly/3sXDiKF)
+- 🎮 My Android Games - [bit.ly/3sXDiKF](http://bit.ly/3sXDiKF)
 
-- 🖥️ My PC Games - [www.harindu.dev/games](https://www.harindu.dev/games.html)
+- 🖥️ My PC Games - [harindu.dev/games](https://www.harindu.dev/games.html)
 
 - 🎨 My Visual Studio Code Theme - [Harindulk-Dark](https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark)
 
-- 👻 Ghost Zone Game - [https://play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
+- 👻 Ghost Zone Game - [play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
 
-- 🪲 Pre-register for Bug Star - [https://play.google.com/store/apps/details?id=com.Harindulk.BugStar](https://bit.ly/3q7yEKt)
+- 🪲 Pre-register for Bug Star - [play.google.com/store/apps/details?id=com.Harindulk.BugStar](https://bit.ly/3q7yEKt)
 
 
 ----
