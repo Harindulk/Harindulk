@@ -10,7 +10,7 @@
 
 - 📫 How to reach me - **harindu.dev@outlook.com**
 
-- 📄 Know about my experiences - [harindu.dev/About](https://www.harindu.dev/About.html)
+- 📄 Know about my experiences - [harindu.dev/about](https://www.harindu.dev/About.html)
 
 - 🎮 My Android Games - [links.harindu.me/play-store](https://links.harindu.me/play-store)
 
