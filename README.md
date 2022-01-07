@@ -12,15 +12,15 @@
 
 - 📄 Know about my experiences - [harindu.dev/About](https://www.harindu.dev/About.html)
 
-- 🎮 My Android Games - [bit.ly/3sXDiKF](http://bit.ly/3sXDiKF)
+- 🎮 My Android Games - [links.harindu.me/play-store](https://links.harindu.me/play-store)
 
 - 🖥️ My PC Games - [harindu.dev/games](https://www.harindu.dev/games.html)
 
-- 🎨 My Visual Studio Code Theme - [Harindulk-Dark](https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark)
+- 🎨 My Visual Studio Code Theme - [links.harindu.me/vs-harindulk-dark](https://links.harindu.me/vs-harindulk-dark)
 
-- 👻 Ghost Zone Game - [play.google.com/store/apps/details?id=com.Harindulk.Ghostzone](https://bit.ly/3xaeHEg)
+- 👻 Ghost Zone Game - [links.harindu.me/ghost-zone](https://links.harindu.me/ghost-zone)
 
-- 🪲 Pre-register for Bug Star - [play.google.com/store/apps/details?id=com.Harindulk.BugStar](https://bit.ly/3q7yEKt)
+- 🪲 Pre-register for Bug Star - [links.harindu.me/bug-star](https://links.harindu.me/bug-star)
 
 
 ----
