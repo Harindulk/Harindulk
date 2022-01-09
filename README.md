@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
 
-  ![Profile views](https://gpvc.arturio.dev/Harindulk)  
   
 - 🌱 I’m currently learning ML.NET
 
