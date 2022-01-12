@@ -54,5 +54,3 @@
 [6]: https://www.instagram.com/harindulk/
 
 ----
-### oh, my contribution graph get eaten by the snake 🐍🐍
-![snake gif](https://github.com/Harindulk/Harindulk/blob/output/github-contribution-grid-snake.svg)
