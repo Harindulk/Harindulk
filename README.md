@@ -21,4 +21,4 @@
 
 - 🪲 Pre-register for Bug Star - [links.harindu.me/bug-star](https://links.harindu.me/bug-star)
 
-- 🍵 Support me -  [https://ko-fi.com/harindulk](https://ko-fi.com/harindulk)
+- 🍵 Support me -  [ko-fi.com/harindulk](https://ko-fi.com/harindulk)
