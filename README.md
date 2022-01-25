@@ -1,24 +1,27 @@
-<h2 align="center">Hi 👋, I'm Harindu Fonseka</h2>
+<h4 align="center">Hi, I'm Harindu Fonseka ( aka harindulk )</h4>
 
+<h5>
   
-- 🌱 I’m currently learning ML.NET
+- I’m currently learning ML.NET
 
-- 🌲 My links Page - [harindu.me](https://harindu.me/)
+- My links Page - [harindu.me](https://harindu.me/)
 
-- 📝 Website - [harindu.dev](https://www.harindu.dev)
+- Website - [harindu.dev](https://www.harindu.dev)
 
-- 📫 How to reach me - **harindu.dev@outlook.com**
+- How to reach me - **harindu.dev@outlook.com**
 
-- 📄 Know about my experiences - [harindu.dev/about](https://www.harindu.dev/About.html)
+- Know about my experiences - [harindu.dev/about](https://www.harindu.dev/About.html)
 
-- 🎮 My Android Games - [links.harindu.me/play-store](https://links.harindu.me/play-store)
+- My Android Games - [links.harindu.me/play-store](https://links.harindu.me/play-store)
 
-- 🖥️ My PC Games - [harindu.dev/games](https://www.harindu.dev/games.html)
+- My PC Games - [harindu.dev/games](https://www.harindu.dev/games.html)
 
-- 🎨 My Visual Studio Code Theme - [links.harindu.me/vs-harindulk-dark](https://links.harindu.me/vs-harindulk-dark)
+- My Visual Studio Code Theme - [links.harindu.me/vs-harindulk-dark](https://links.harindu.me/vs-harindulk-dark)
 
-- 👻 Ghost Zone Game - [links.harindu.me/ghost-zone](https://links.harindu.me/ghost-zone)
+- Ghost Zone Game - [links.harindu.me/ghost-zone](https://links.harindu.me/ghost-zone)
 
-- 🪲 Pre-register for Bug Star - [links.harindu.me/bug-star](https://links.harindu.me/bug-star)
+- Pre-register for Bug Star - [links.harindu.me/bug-star](https://links.harindu.me/bug-star)
 
-- 🍵 Support me -  [ko-fi.com/harindulk](https://ko-fi.com/harindulk)
+- Support me -  [ko-fi.com/harindulk](https://ko-fi.com/harindulk)
+  
+</h5>
