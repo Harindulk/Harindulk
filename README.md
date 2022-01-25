@@ -1,4 +1,4 @@
-<h4 align="center">Hi, I'm Harindu Fonseka ( aka harindulk )</h4>
+<h4>Hi, I'm Harindu Fonseka ( aka harindulk )</h4>
 
 <h5>
   
