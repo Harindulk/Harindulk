@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
+<h2 align="center">Hi 👋, I'm Harindu Fonseka</h2>
 
   
 - 🌱 I’m currently learning ML.NET
