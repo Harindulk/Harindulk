@@ -14,7 +14,7 @@
 
 - My Android Games - [links.harindu.me/play-store](https://links.harindu.me/play-store)
 
-- My PC Games - [harindu.dev/games](https://www.harindu.dev/games.html)
+- My PC Games - [harindulk.itch.io](https://harindulk.itch.io/)
 
 - My Visual Studio Code Theme - [links.harindu.me/vs-harindulk-dark](https://links.harindu.me/vs-harindulk-dark)
 
