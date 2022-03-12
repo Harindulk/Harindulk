@@ -9,6 +9,8 @@
 - Website - [harindu.dev](https://www.harindu.dev)
 
 - How to reach me - **harindu.dev@outlook.com**
+  
+- My Blockchain Gateway - [bored-store.co](https://www.bored-store.co/)
 
 - Know about my experiences - [harindu.dev/about](https://www.harindu.dev/About.html)
 
