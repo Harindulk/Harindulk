@@ -2,6 +2,8 @@
 
 <h5>
   
+  ![Profile views](https://gpvc.arturio.dev/Harindulk)  
+
 - I’m currently learning blockchain development
 
 - My links Page - [harindu.me](https://harindu.me/)
@@ -26,6 +28,5 @@
 
 - Support me -  [ko-fi.com/harindulk](https://ko-fi.com/harindulk)
   
-- ![Profile views](https://gpvc.arturio.dev/Harindulk)  
   
 </h5>
