@@ -26,4 +26,6 @@
 
 - Support me -  [ko-fi.com/harindulk](https://ko-fi.com/harindulk)
   
+- ![Profile views](https://gpvc.arturio.dev/Harindulk)  
+  
 </h5>
