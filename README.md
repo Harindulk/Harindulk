@@ -1,32 +1,16 @@
-<h4>Hi, I'm Harindu Fonseka ( aka harindulk )</h4>
 
 <h5>
   
-  ![Profile views](https://gpvc.arturio.dev/Harindulk)  
+ ![Profile views](https://gpvc.arturio.dev/Harindulk)  
+ 
+ google - [harindu fonseka](https://g.co/kgs/ejziUB)
 
-- I’m currently learning blockchain development
-
-- My links Page - [harindu.me](https://harindu.me/)
-
-- Website - [harindu.dev](https://www.harindu.dev)
-
-- How to reach me - **harindu.dev@outlook.com**
-  
-- My Blockchain Gateway - [bored-store.co](https://www.bored-store.co/)
-
-- Know about my experiences - [harindu.dev/about](https://www.harindu.dev/About.html)
-
-- My Android Games - [links.harindu.me/play-store](https://links.harindu.me/play-store)
-
-- My PC Games - [harindulk.itch.io](https://harindulk.itch.io/)
-
-- My Visual Studio Code Theme - [links.harindu.me/vs-harindulk-dark](https://links.harindu.me/vs-harindulk-dark)
-
-- Ghost Zone Game - [links.harindu.me/ghost-zone](https://links.harindu.me/ghost-zone)
-
-- Pre-register for Bug Star - [links.harindu.me/bug-star](https://links.harindu.me/bug-star)
-
-- Support me -  [ko-fi.com/harindulk](https://ko-fi.com/harindulk)
-  
+ links - [harindu.me](https://harindu.me/)  
+ 
+ website - [harindu.dev](https://www.harindu.dev)  
+ 
+ android games - [links.harindu.me/play-store](https://links.harindu.me/play-store)  
+ 
+ pc games - [harindulk.itch.io](https://harindulk.itch.io/) 
   
 </h5>
