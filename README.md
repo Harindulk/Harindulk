@@ -20,5 +20,4 @@
   <!-- BLOG-POST-LIST:END -->
   
 </h5>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harindulk&show_icons=true&locale=en&layout=compact" alt="harindulk" />
 
