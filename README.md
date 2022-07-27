@@ -17,7 +17,7 @@
 
   <!-- BLOG-POST-LIST:START -->
 - [Steps to get the SHA1 key for windows users | Firebase in Unity](https://dev.to/harindulk/steps-to-get-the-sha1-key-for-windows-users-firebase-in-unity-2h4g)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
   
 </h5>
 
