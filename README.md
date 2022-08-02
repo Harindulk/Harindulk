@@ -7,7 +7,7 @@
 
  🔗 links - [harindu.me](https://harindu.me/)  
  
- 🌏 website - [harindu.dev](https://www.harindu.dev)  
+ 🌏 website - [harindu.dev](https://harindu.dev)  
  
  📱android games - [links.harindu.me/play-store](https://links.harindu.me/play-store)  
  
