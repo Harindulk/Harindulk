@@ -19,7 +19,7 @@
 #### latest blog post
 
   <!-- BLOG-POST-LIST:START -->
-- [Steps to get the SHA1 key for windows users | Firebase in Unity](https://dev.to/harindulk/steps-to-get-the-sha1-key-for-windows-users-firebase-in-unity-2h4g)
+- [Steps to get the SHA1/SHA256 key for windows users | Firebase/Google Play Games in Unity](https://dev.to/harindulk/steps-to-get-the-sha1-key-for-windows-users-firebase-in-unity-2h4g)
 <!-- BLOG-POST-LIST:END -->
   
 </h5>
