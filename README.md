@@ -6,8 +6,6 @@
  😎 fun & proud fact - **I got a chance to work as an intern [@99x](https://github.com/99x) when I was 15 years old**
  
  🔍 google - [harindu fonseka](https://g.co/kgs/ejziUB)
-
- 🔗 links - [harindu.me](https://harindu.me/)  
  
  🌏 website - [harindu.dev](https://harindu.dev)  
  
