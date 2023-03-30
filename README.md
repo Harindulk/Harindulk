@@ -9,7 +9,7 @@
  
  🌏 website - [harindu.dev](https://harindu.dev)  
  
- 📱android games - [links.harindu.me/play-store](https://links.harindu.me/play-store)  
+ 📱android games - [links.harindu.me/play-store](https://play.google.com/store/apps/dev?id=6729187126243636577&hl=en&gl=US&pli=1)
  
  🖥️ pc games - [harindulk.itch.io](https://harindulk.itch.io/) 
  
