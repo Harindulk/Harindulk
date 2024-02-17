@@ -1,7 +1,5 @@
 
 <h5>
-  
- ![Profile views](https://gpvc.arturio.dev/Harindulk)  
  
  😎 fun & proud fact - **I got a chance to work as an intern [@99x](https://github.com/99x) when I was 15 years old**
  
